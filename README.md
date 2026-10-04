@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of yiin/flarum-ext-lithuanian.** Not for installation: use [Packagist](https://packagist.org/packages/yiin/flarum-ext-lithuanian) or the [upstream repository](https://github.com/Yiin-/flarum-ext-lithuanian).
 
-**0** versions archived · Latest: [`v0.1.0-beta.5`](https://github.com/flarchive/yiin-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**3** versions archived · Latest: [`v0.1.0-beta.5`](https://github.com/flarchive/yiin-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.5) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.3` | 2015-10-28 | — | [Browse](https://github.com/flarchive/yiin-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-04 | — | [Browse](https://github.com/flarchive/yiin-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/yiin-flarum-ext-lithuanian/tree/archive/v0.1.0-beta.5) |
 
 Catalog entry: [packages/yiin-flarum-ext-lithuanian.json](https://github.com/flarchive/archive-index/blob/main/packages/yiin-flarum-ext-lithuanian.json)
 
